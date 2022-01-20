@@ -1,5 +1,7 @@
 # lego-palace-cinema-lights
 
+[Video on YouTube](https://youtu.be/01zva07MNxc)
+
 A Arduino Light control program for the Lego Cinema 10232 set's marquee.  It just runs different patterns in a loop.
 
 This was inspired by a project I saw on Reddit (links below).  I don't have a background in electronics, so that portion of the project was a learning experince for me. I made notes here for anyone who comes after me.  Please take this with a grain of salt, there's probably better ways to do all of this.
